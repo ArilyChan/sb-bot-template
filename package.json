@@ -6,7 +6,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "koishi": "^2.4.0",
-    "koishi-adapter-cqhttp": "^1.0.6",
+    "koishi-adapter-cqhttp": "^1.0.7",
     "sb-qq-bot-framework": "github:ArilyChan/sb-qq-bot-framework"
   },
   "devDependencies": {},
